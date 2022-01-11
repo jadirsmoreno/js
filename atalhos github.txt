@@ -1,0 +1,7 @@
+C:\Users\Jadir\Documents\GitHub\js
+
+
+git status
+git add .
+git commit -m "" //nome da mensagem
+git push origin master
