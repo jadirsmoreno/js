@@ -1,8 +1,10 @@
 const alunos = ['João', 'Juliana', 'Caio', 'Ana']
-
+                    //  [0] [1][2][3] 
 const mediasDosAlunos = [10, 7, 9, 6]
-
+                           //[0]        [1]
 let listaDeNotasEAlunos = [alunos, mediasDosAlunos]
+//                                              [0]                     [1]
+// let listaDeNotasEAlunos = [['João', 'Juliana', 'Caio', 'Ana'], [10, 7, 9, 6]]
 
 
 // [0] [0] primeiramente a array listaDeNotasEAlunos acessa como índice 0 a lista
